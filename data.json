@@ -1,0 +1,14 @@
+{
+    "google": {
+        "email": "satvik@gmail.com",
+        "password": "goopas"
+    },
+    "Ebay": {
+        "email": "satvik@gmail.com",
+        "password": "ebaypass"
+    },
+    "Amazon": {
+        "email": "satvik@gmail.com",
+        "password": "amapass123"
+    }
+}
